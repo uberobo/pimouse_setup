@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by Ube Robo
 
 exec 2> /tmp/setup.log
 
